@@ -47,15 +47,16 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 i.) Dataset:
-![image](https://github.com/shoaib3136/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117919362/79db3821-3ded-4bac-a9ef-96f894e06e98)
+![image](https://github.com/shoaib3136/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117919362/f0670749-1743-4fff-b557-e89c9414d246)
 
 
 ii.) Accuracy Score:
-![image](https://github.com/shoaib3136/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117919362/3c13684e-e73a-49ab-925c-61c010198b7e)
+
+![image](https://github.com/shoaib3136/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117919362/0a9be5c8-da40-45e4-aab8-73235da7c669)
 
 
 iii.) Testing of model:
-![image](https://github.com/shoaib3136/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117919362/f94faa31-8c90-45f7-bfdb-489896be15bb)
+![image](https://github.com/shoaib3136/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117919362/d829eaf1-4d3c-4ff8-80b3-ee92cc625465)
 
 
 ## Result:
